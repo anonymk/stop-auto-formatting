@@ -2,9 +2,9 @@
 /*
 Plugin Name: Stop Auto Formatting
 Description: Stops the automatic formatting.
-Version: 1.0.0
-Author: Blue Art Co., Ltd.
-Author URI: http://www.blueart21.co.jp/
+Version: 1.0.1
+Author: Yumearu Inc.
+Author URI: http://www.yumearu.co.jp/
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
